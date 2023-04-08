@@ -1,7 +1,16 @@
 # library-js
 
 Book Library
-- This is a JavaScript implementation of a simple book library that allows users to add new books to the library and view the list of books in the library. The program uses HTML and CSS to display the library in a visually appealing way.
+- library-js is a simple web application that allows you to keep track of your book collection. With this app, you can add, edit, and remove books, and see a list of all the books in your library. The app is built using HTML, CSS, and JavaScript, and uses localStorage to persist the data between sessions.
+
+Features
+- Add books to your library by filling out a form with title, author, number of pages, and read status
+- Edit existing books by clicking on them and updating their fields
+- Remove books by clicking on a delete button next to them
+- See a list of all the books in your library with their details
+- Data is saved to localStorage so that you can close the app and come back to it later without losing your library
+
+
 
 Usage
 - To add a new book to the library, click on the Add New Book button and fill out the form.
